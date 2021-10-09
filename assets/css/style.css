@@ -5,7 +5,7 @@
     margin: 0;
     font-family: Roboto;
     color: #cdd4de;
-    color: rgba(200, 200, 200, 0.6);
+    color: rgba(200, 200, 200, 0.5);
     text-align: center;
 }
 
@@ -23,7 +23,7 @@ h1{
 }
 
 main{
-    margin-top: 10rem;
+    padding-top: 20rem;
 }
 
 main h2{
